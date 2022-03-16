@@ -5,6 +5,6 @@
 
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
-    display: flex;
+    display: block;
   }
 }
