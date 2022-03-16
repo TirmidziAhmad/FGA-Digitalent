@@ -155,13 +155,12 @@ footer {
 .footer-bawah {
   background: #000;
   width: 100%;
-  padding: 20px;
   padding-bottom: 40px;
   text-align: center;
 }
 
 .footer-bawah p {
-  float: right;
+  float: left;
   font-size: 14px;
   word-spacing: 2px;
   text-transform: capitalize;
