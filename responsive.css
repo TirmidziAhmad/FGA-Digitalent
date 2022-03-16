@@ -7,4 +7,21 @@
   .menu-icon {
     display: block;
   }
+  .list-wrapper {
+    background-color: rgb(149, 245, 165);
+  }
+  .biodata {
+    width: 100%;
+  }
+}
+/*responsive web*/
+
+@media (max-width: 1000px) {
+  .list-wrapper {
+    background-color: rgb(185, 128, 238);
+  }
+  .biodata {
+    width: 50%;
+    margin-bottom: 50px;
+  }
 }
