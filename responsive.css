@@ -5,26 +5,23 @@
 
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
-    display: flex;
+    display: block;
   }
-  .list-wrapper{
-    background-color:rgb(149, 245, 165);
-}
-.biodata{
-    width:100%;
+  .list-wrapper {
+    background-color: rgb(149, 245, 165);
+  }
+  .biodata {
+    width: 100%;
   }
 }
-  /*responsive web*/
+/*responsive web*/
 
-  @media (max-width :1000px) {
-    .list-wrapper{
-        background-color:rgb(185, 128, 238);
-    }
-    .biodata{
-        width:50%;
-        margin-bottom:50px;
-      }
+@media (max-width: 1000px) {
+  .list-wrapper {
+    background-color: rgb(185, 128, 238);
+  }
+  .biodata {
+    width: 50%;
+    margin-bottom: 50px;
+  }
 }
-  
-
- 
